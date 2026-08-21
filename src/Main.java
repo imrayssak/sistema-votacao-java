@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
-class Main {
-
+    class Main {
     static Scanner scanner = new Scanner(System.in);
 
     static final int MAX_CANDIDATOS = 5;
